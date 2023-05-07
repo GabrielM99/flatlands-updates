@@ -1,5 +1,7 @@
 {
 "version":"",
 "path":"releases/tags/[TAG]",
-"name":"Flatlands.zip"
+"name":"Flatlands.zip",
+//DEPRECATED
+"url":""
 }
